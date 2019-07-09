@@ -60,4 +60,5 @@ make install
 ## Reference
 1. http://mqtt.org/
 2. MQTT-TTS (paper submitted)
-3. https://www.eclipse.org/paho/
+3. [MQTT-TTS Presentation](https://docs.google.com/presentation/d/1NQ0L5zjheC961fcxP7nM9jTLUQG301K3PKnuc-vPPEM/edit#slide=id.g4a3bfb0da5_0_83)
+4. https://www.eclipse.org/paho/
